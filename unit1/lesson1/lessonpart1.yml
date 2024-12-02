@@ -4,3 +4,6 @@ showContent: true
 showEditor: false
 showTerminal: false
 showExplorer: false
+editor:
+  - codeType: py
+    path: fbcc5441-d0c0-4c02-84a4-eea8ace9edda:unit1:lesson1:lessonpart1/test.py
