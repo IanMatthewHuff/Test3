@@ -1,15 +1,13 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: fbcc5441-d0c0-4c02-84a4-eea8ace9edda
 title: Course Title
 level: beginner
 description: Course Description
 objectives: Course Objectives
 prerequisites: Course Prerequisites
+cardImageUrl: https://ppe.vscodeedu.com/assets/course-cards/card2.png
 contacts:
   - displayName: IanMatthewHuff
     homePageUrl: github.com/IanMatthewHuff/Test3
 units:
   - unit1/index.yml
-drive:
-  fileSystem:
-    - path: fbcc5441-d0c0-4c02-84a4-eea8ace9edda:unit1:lesson1:lessonpart1/test.py
-      content: hello
