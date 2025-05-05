@@ -8,6 +8,6 @@ prerequisites: Course Prerequisites
 cardImageUrl: https://ppe.vscodeedu.com/assets/course-cards/card2.png
 contacts:
   - displayName: IanMatthewHuff
-    homePageUrl: www.bing.com
+    homePageUrl: http://www.bing.com
 units:
   - unit1/index.yml
