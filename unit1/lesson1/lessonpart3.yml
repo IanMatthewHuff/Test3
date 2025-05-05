@@ -1,5 +1,22 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart3
-title: Mapping Question
+title: String 2
 content: |
-  Mapping Question
+  # More strings
+questionGroups:
+  - questions:
+      - id: "1"
+        type: string
+        content: Like food?
+        options:
+          - id: "1"
+            value: Yes food good
+            isCorrect: true
+  - questions:
+      - id: "1"
+        type: string
+        content: Like water?
+        options:
+          - id: "1"
+            value: Yes water good
+            isCorrect: true
