@@ -19,4 +19,5 @@ questionGroups:
         options:
           - id: "1"
             value: Yes water good
+            explanation: Thirsty?
             isCorrect: true
