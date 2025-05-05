@@ -1,6 +1,8 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart2
-title: part2
+title: String Two Responses
+content: |
+  # String Question with Two Responses
 questionGroups:
   - questions:
       - id: "1"
