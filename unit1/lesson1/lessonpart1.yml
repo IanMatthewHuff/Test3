@@ -4,7 +4,8 @@ title: Test Part
 content: |
   # Adding some test content here to look at
 questionGroups:
-  - questions:
+  - id: ""
+    questions:
       - id: "1"
         type: string
         content: Do you like food?
@@ -12,7 +13,8 @@ questionGroups:
           - id: "1"
             value: 1000 times yes
             isCorrect: true
-  - questions:
+  - id: ""
+    questions:
       - id: "1"
         type: choice
         content: What is the best color

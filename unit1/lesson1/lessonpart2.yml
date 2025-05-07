@@ -4,7 +4,8 @@ title: String Two Responses
 content: |
   # String Question with Two Responses
 questionGroups:
-  - questions:
+  - id: ""
+    questions:
       - id: "1"
         type: string
         content: String With Two Responses

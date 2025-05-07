@@ -4,20 +4,23 @@ title: String 2
 content: |
   # More strings
 questionGroups:
-  - questions:
+  - id: "1"
+    questions:
       - id: "1"
         type: string
-        content: Like food?
+        content: First String Question
         options:
           - id: "1"
-            value: Yes food good
+            value: One
+            explanation: Yes One!
             isCorrect: true
-  - questions:
+  - id: "2"
+    questions:
       - id: "1"
         type: string
-        content: Like water?
+        content: Second String Question
         options:
           - id: "1"
-            value: Yes water good
-            explanation: Thirsty?
+            value: Two
+            explanation: Yes Two!
             isCorrect: true
