@@ -8,7 +8,7 @@ questionGroups:
     questions:
       - id: "1"
         type: string
-        content: Do you like food?
+        content: Do you like Dogs?
         options:
           - id: "1"
             value: 1000 times yes
