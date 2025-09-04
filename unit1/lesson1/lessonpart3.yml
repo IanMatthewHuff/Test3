@@ -3,6 +3,11 @@ id: lessonpart3
 title: String 2
 content: |
   # More strings
+showEditor: true
+editors:
+  - fbcc5441-d0c0-4c02-84a4-eea8ace9edda/unit1/lesson1/lessonpart3/index.html
+  - fbcc5441-d0c0-4c02-84a4-eea8ace9edda/unit1/lesson1/lessonpart3/script.js
+  - fbcc5441-d0c0-4c02-84a4-eea8ace9edda/unit1/lesson1/lessonpart3/styles.css
 questionGroups:
   - id: "1"
     questions:

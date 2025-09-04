@@ -14,7 +14,3 @@ questionGroups:
             value: Response 1
             explanation: Response 1 Exp
             isCorrect: true
-          - id: "2"
-            value: Response 2
-            explanation: Response 2 Exp
-            isCorrect: true
